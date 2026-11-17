@@ -2,11 +2,11 @@
 
 #Currently Learning
 
-Data Structures
+*Data Structures
 
-Machine Learning
+*Machine Learning
 
-Web Development
+*Web Development
 
 
 
